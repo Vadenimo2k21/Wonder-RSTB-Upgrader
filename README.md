@@ -17,4 +17,4 @@ It will apply the changes from the modded RSizeTable to the Vanilla “ResourceS
 After this process is done, you are ready to use the file for your mods.
 
 # Credits
-This tool was created by ChatGPT. chico88959 (@chico88959 on Discord) made the prompts for creating this progam by ChatGPT.
+This tool was created by ChatGPT. chico88959 (@chico88959 on Discord) made the prompts for creating this progam by ChatGPT. The tutorial was re-written and folder structure better organized by Vadenimo.
