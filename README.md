@@ -1,5 +1,5 @@
 # Wonder-RSTB-Upgrader
-A tool to upgrade your Super Mario Bros. v0 (v1.0.0) RSTB files to v65536 (v1.1.1) RSTB files.
+A tool to upgrade your Super Mario Bros. Wonder v0 (v1.0.0) RSTB files to v65536 (v1.1.1) RSTB files.
 
 # Tutorial
 First at all, you need to export your Super Mario Bros. Wonder NSP/XCI to the RomFS filesystem with its v65536 (v1.0.1) files.
